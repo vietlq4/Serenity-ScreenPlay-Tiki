@@ -1,5 +1,6 @@
 package vn.tiki.features.search;
 
+import javafx.beans.binding.When;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
