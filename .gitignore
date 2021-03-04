@@ -1,3 +1,5 @@
 *.idea
 *.xml
 target
+*.png
+*.iml
